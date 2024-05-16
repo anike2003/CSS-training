@@ -1,0 +1,31 @@
+h3{
+    border:5px solid;
+    width: 200px;
+    height: 200px;
+    border-color: blue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 180px;
+    font-weight: bold;
+    margin-left: 40px;
+    
+
+/* 
+    transform: translate(90px,30px);
+    transform: rotateX(180deg);
+    transform: rotateY(90deg);
+    transform: rotateZ(360deg);
+    transform:scale(1,2);
+    transform: skew(20deg,20deg); */
+
+    /* 
+    matrix combines
+    1) Scale X
+    2) Skew Y
+    3) Skew X
+    4) Scale Y
+    5) Translate X
+    6) Translate Y 
+    */
+    /* transform: matrix(0.5,1.5,1.5,0.5,30,20); */
+
+}

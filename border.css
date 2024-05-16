@@ -1,0 +1,17 @@
+h1{
+    border-top-style:dashed;
+    border-bottom-style: dashed;
+    /* border-style: dotted; */
+    border-left-style:double ;
+    border-left-width: 11px;
+    border-left-color: silver;
+   
+}
+
+p{
+    border-style:outset;
+    border-width: 3px;
+    border-color: blue;
+    border-radius: 12px;
+    padding: 12px;
+}
